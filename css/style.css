@@ -2061,3 +2061,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 		line-height: 120px;
 	}
 }
+
+.invisible {
+    visibility: hidden;
+}
