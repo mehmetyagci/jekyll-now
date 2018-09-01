@@ -2066,10 +2066,11 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
     visibility: hidden;
 }
 
-/* iframe itself */
+/* iframe itself 
 div#map > iframe {
     display: block;
     width: 100%;
     height: 100%;
     border: none;
 }
+*/
